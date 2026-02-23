@@ -1,7 +1,11 @@
 | Category     | Task                                      | Frequency         | Responsible |
 |--------------|-------------------------------------------|-------------------|-------------|
 | Sorting      | Sleep                                     | Weekly            | Thư         |
+| Sorting      | Stay home and relax                       | Weekly            | Thư         |
+| Sorting      | Enjoy lazy time                           | Weekly            | Thư         |
+| Sorting      | Take it easy                              | Weekly            | Thư         |
 | Sorting      | Empty all hampers and pockets             | Weekly            | Huy         |
+| Special      | If either of us drinks too much, the other checks in and helps get home safely | As needed | Both        |
 | Sorting      | Separate whites, lights, darks            | Weekly            | Huy         |
 | Sorting      | Separate towels and bedding               | Weekly            | Huy         |
 | Sorting      | Separate delicates and knits              | Weekly            | Huy         |
