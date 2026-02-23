@@ -1,3 +1,5 @@
+This table lists household and laundry-related tasks, how often they happen, and who is responsible.
+
 | Category     | Task                                      | Frequency         | Responsible |
 |--------------|-------------------------------------------|-------------------|-------------|
 | Sorting      | Sleep                                     | Weekly            | Thư         |
